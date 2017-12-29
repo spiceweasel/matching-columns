@@ -1,6 +1,7 @@
-// Application1.cpp
-// BApplication Object for Matching Columns Game
-
+/* Application1.cpp
+   Copyright 2017 Scott Jacovidis
+   License http://opensource.org/licenses/mit-license.php MIT License
+*/
 #include <Application.h>
 #include "message_labels.h"
 #include "Application1.h"
