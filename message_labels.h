@@ -1,8 +1,7 @@
-// message_labels.h
-// Defines MatchColumns.proj
-// By: Scott Jacovidis  scottybe2012@gmail.com
-// See ReadMe for program details.
-
+/* message_labels.h
+   Copyright 2017 Scott Jacovidis
+   License http://opensource.org/licenses/mit-license.php MIT License
+*/
 
 #define DEFAULT_MSG 'bx00'
 #define MNUF_EXIT 'bx01'
