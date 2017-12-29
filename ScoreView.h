@@ -1,7 +1,7 @@
-// ScoreView.h
-// The High Score View header for MatchColumns.proj
-// by: Scott Jacovidis  scottybe2012@gmail.com
-// See ReadMe for program details.
+/* ScoreView.h
+   Copyright 2017 Scott Jacovidis
+   License http://opensource.org/licenses/mit-license.php MIT License
+*/
 
 #include <View.h>
 #include <Entry.h>

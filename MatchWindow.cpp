@@ -1,7 +1,7 @@
-// MatchWindow.cpp
-// The BWindow for MatchColumns.proj
-// by: Scott Jacovidis  scottybe2012@gmail.com
-// See ReadMe for program details.
+/* MatchWindow.cpp 
+   Copyright 2017 Scott Jacovidis
+   License http://opensource.org/licenses/mit-license.php MIT License
+*/
 
 #include <Application.h>
 #include <Message.h>
