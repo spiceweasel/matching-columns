@@ -1,6 +1,7 @@
-// Application1.h
-// BApplication Object header for Matching Columns Game
-
+/* Application1.h
+   Copyright 2017 Scott Jacovidis
+   License http://opensource.org/licenses/mit-license.php MIT License
+*/
 #include <Application.h>
 #include <Window.h>
 #include "MatchWindow.h"
